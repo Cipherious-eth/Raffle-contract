@@ -28,7 +28,7 @@ import {VRFV2PlusClient} from "@chainlink/contracts/src/v0.8/vrf/dev/libraries/V
 
 /**
  * @title A simple raffle contract
- * @author Mbawin Ferguson Awinpang
+ * @author cipherious.xyz
  * @notice This contract is for creating a simple raffle
  * @dev Implements chainlink-VRFv2.5
  */
